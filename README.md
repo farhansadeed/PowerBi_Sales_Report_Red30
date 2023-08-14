@@ -16,8 +16,8 @@ Dive into the world of data visualization with this repository! Inspired by Josh
 - Dashboard filters to drill down into the specifics.
 - Whether you're a data enthusiast or just curious about Power BI, this repository offers a glimpse into turning raw numbers into compelling stories. Let's drive better decisions, one dashboard at a time! 📈
 
-Power BI Dashboard Creation: An E-Commerce Analysis
-This repository showcases the process of creating an insightful Power BI dashboard for an e-commerce business. The steps and visualizations were inspired by a guided instructional course. Here's a breakdown of what was achieved:
+# Power BI Dashboard Creation: An E-Commerce Analysis
+- This repository showcases the process of creating an insightful Power BI dashboard for an e-commerce business. The steps and visualizations were inspired by a guided instructional course. Here's a breakdown of what was achieved:
 
 # 1. Chart Selection and Creation
 ## Challenge: With a plethora of chart options in Power BI, selecting the right one can be daunting.
