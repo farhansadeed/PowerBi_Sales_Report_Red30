@@ -10,11 +10,11 @@ Dive into the world of data visualization with this repository! Inspired by Josh
 
 🔍 What's Inside?
 
-A primer on the foundational blocks of a Power BI dashboard.
-A showcase of selecting the right data and seamlessly connecting it.
-A variety of chart types, each tailored for specific data narratives.
-Dashboard filters to drill down into the specifics.
-Whether you're a data enthusiast or just curious about Power BI, this repository offers a glimpse into turning raw numbers into compelling stories. Let's drive better decisions, one dashboard at a time! 📈
+- A primer on the foundational blocks of a Power BI dashboard.
+- A showcase of selecting the right data and seamlessly connecting it.
+- A variety of chart types, each tailored for specific data narratives.
+- Dashboard filters to drill down into the specifics.
+- Whether you're a data enthusiast or just curious about Power BI, this repository offers a glimpse into turning raw numbers into compelling stories. Let's drive better decisions, one dashboard at a time! 📈
 
 <hr />
 <br />
