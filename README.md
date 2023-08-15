@@ -1,4 +1,4 @@
-# PowerBi_Sales_Report_Red30
+# PowerBi Sales Report Red30
 This is a Power BI dashboard showcasing the selection of right data and seamlessly connecting it.
 
 # :man_student:Red30 Tech Online Sales Dashboard:floppy_disk:
